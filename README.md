@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🏠 Here is my personal page ➡ [**Siheng Xiong | Home**](https://xiongsiheng.github.io/)  
+- 🔭 I’m currently working on knowledge graph reasoning and large language models.  
+- 💬 Feel free to contact me if you are interested in me.
 
 <!--
 **xiongsiheng/xiongsiheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
