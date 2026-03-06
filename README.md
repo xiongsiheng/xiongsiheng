@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🏠 Personal website ➡ [Siheng Xiong | Home](https://xiongsiheng.github.io/)
 - 📄 Publications ➡ [Google Scholar](https://scholar.google.com/xxxxx)
-- 🔭 My research focuses on large language models, reasoning, and agent systems.
+- 🔭 My research focuses on large language model reasoning, planning, and agentic systems.
 - 👯 I'm always open to collaboration.
 - 💬 Feel free to reach out for discussion.
 
