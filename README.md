@@ -11,14 +11,14 @@
 
 ### Long-Horizon LLM Agents
 - [**DeepControl**](https://github.com/xiongsiheng/DeepControl) (ICLR 2026 @ SPOT): Adaptive information control for search-augmented LLM reasoning
-- [**DeepVerify**](https://github.com/xiongsiheng/DeepVerify): Evidence-based scientific claim verification with LLM agents
+- [**DeepVerify**](https://github.com/xiongsiheng/DeepVerify) (Project 2025): Evidence-based scientific claim verification with LLM agents
 - [**MLR**](https://github.com/xiongsiheng/MLR) (ICLR 2026): Structured multi-level modeling for language model reasoning
 - [**SWAP**](https://github.com/xiongsiheng/SWAP) (ACL 2025): Structure-aware planning for deliberate reasoning in language models
 - [**SymPlanner**](https://github.com/xiongsiheng/SymPlanner) (ACS 2025): Symbolic representations for deliberate planning in language models
 
 ### Long-Context and Memory Systems
 - [**DHSA**](https://github.com/xiongsiheng/DHSA) (NeurIPS 2025 @ ER): Dynamic hierarchical sparse attention for on-device LLMs
-- [**LM-OS**](https://github.com/gblackout/LM-OS): Compressor-retriever architecture for language model operating systems
+- [**LM-OS**](https://github.com/gblackout/LM-OS) (Preprint 2024): Compressor-retriever architecture for language model operating systems
 
 ### LLM Reasoning
 - [**CausalEval**](https://github.com/chendi02/Awesome-LLM-Causal-Reasoning) (NAACL 2025): Curated benchmark for causal reasoning in LLMs
