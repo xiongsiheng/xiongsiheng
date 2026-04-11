@@ -21,7 +21,7 @@
 - [**LM-OS**](https://github.com/gblackout/LM-OS) (Preprint 2024): Compressor-retriever architecture for language model operating systems
 
 ### LLM Reasoning
-- [**CausalEval**](https://github.com/chendi02/Awesome-LLM-Causal-Reasoning) (NAACL 2025): Curated benchmark for causal reasoning in LLMs
+- [**CausalEval**](https://github.com/chendl02/Awesome-LLM-causal-reasoning) (NAACL 2025): Curated benchmark for causal reasoning in LLMs
 - [**Reason-in-the-Wild**](https://github.com/gblackout/Reason-in-the-Wild) (EMNLP 2024): Tactic-guided reasoning for open-domain reasoning tasks
 - [**LogicLLaMA**](https://github.com/gblackout/LogicLLaMA) (ACL 2024): Natural language to first-order logic translation with LLMs
 - [**TG-LLM**](https://github.com/xiongsiheng/TG-LLM) (ACL 2024): Temporal reasoning abilities in large language models
