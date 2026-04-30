@@ -17,7 +17,7 @@
 - [**SymPlanner**](https://github.com/xiongsiheng/SymPlanner) (ACS 2025): Symbolic representations for deliberate planning in language models
 
 ### Long-Context and Memory Systems
-- [**DHSA**](https://github.com/xiongsiheng/DHSA) (NeurIPS 2025 @ ER): Dynamic hierarchical sparse attention for on-device LLMs
+- [**DHSA**](https://github.com/xiongsiheng/DHSA) (ICML 26 Spotlight, NeurIPS 2025 @ ER): Dynamic hierarchical sparse attention for memory-constrained LLM inference
 - [**LM-OS**](https://github.com/gblackout/LM-OS) (Preprint 2024): Compressor-retriever architecture for language model operating systems
 
 ### LLM Reasoning
